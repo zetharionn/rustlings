@@ -1,0 +1,5 @@
+[package]
+name = "rustlings"
+edition = "2024"
+
+[dependencies]
